@@ -1,16 +1,14 @@
-# snake_game
+A Simple Snake Game Written in Dart and Flutter framework.
 
-A new Flutter project.
+![CleanShot 2024-05-20 at 13 59 10](https://github.com/ErenEksen/FlutterPremiereTXTtoTextConverter/assets/97560144/2cbe9da7-d18c-41d8-a802-8a26b3a9a1c3)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔨 To Compile it Yourself!
+```
+flutter build macos
+#or
+flutter build windows
+```
+Dependencies to compile:
+- Flutter
+- Xcode (for macos)
+- Visual Studio Appchain for C++ (For windows)
